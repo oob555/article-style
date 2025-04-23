@@ -1,0 +1,106 @@
+.successcase-article {
+    font-size: 17px;
+  }
+  .success-block {
+    margin-bottom: 30px;
+  }
+  .success-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #2c59a4;
+    border-left: 6px solid #2c59a4;
+    margin-bottom: 15px;
+    background: #efefef;
+    padding: 5px 0px 5px 15px;
+  }
+  .successcase-article .ti-block {
+    /* font-family: "Noto Serif TC", serif; */
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .successcase-article .success-block ul {
+    padding-left: 0;
+  }
+  .successcase-article .success-block ul li {
+    position: relative;
+    list-style-type: none;
+    border-bottom: 1.5px solid #efefef;
+    padding: 6px 20px;
+
+  }
+  .successcase-article .success-block ul li span{
+    font-weight: bold;
+  }
+  .successcase-article .success-block ul li:first-child {
+    border-top: 1.5px solid #efefef;
+}
+  .successcase-article .success-block ul li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 18px;
+    transform: translateX(50%);
+    width: 6px;
+    height: 6px;
+    background-color: #2c59a4;
+  }
+  
+
+  .successcase-article .ti-block ul {
+    padding-left: 0;
+}
+  .successcase-article .ti-block ul li {
+    position: relative;
+    list-style-type: none;
+    color: #2c59a4;
+    margin-bottom: 8px;
+}
+  .successcase-article .ti-block ul li span {
+    color: #000000;
+    padding-left: 22px;
+    display: inline-block;
+    margin: 0 auto;
+  }
+
+  .successcase-article .ti-block ul li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 13px;
+    width: 8px;
+    height: 8px;
+    transform: translateX(50%);
+    background-color: #b59d6f;
+  }
+
+
+
+
+  .successcase-article .cta {
+    background-color: #efefef;
+    padding: 25px 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .successcase-article .cta-link  {
+ padding-top: 20px;
+  }
+  .successcase-article .cta-link a {
+    color: #fff;
+    border: 1px solid;
+    padding: 10px;
+    background: #5e7fb9;
+    display: inline-block;
+    transition: all 0.5s;
+  }
+
+  .successcase-article .cta-link a:hover {
+    background: #92a5c7;
+  }
+
+  .successcase-article .successcase-img {
+    max-width: 700px;
+    margin: 30px auto;
+    box-shadow: 0px 3px 5px #cccccc;
+  }
