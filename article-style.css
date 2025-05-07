@@ -1,6 +1,6 @@
 /*index*/
 
-@midia (max-width:650px) {
+@media (max-width:650px) {
 section.home-contact .contact-outline-text {
     display: none;
 }
