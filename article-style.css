@@ -18,20 +18,7 @@
   h2 {
     font-size: 30px !important;
   }
-    .footer-fix {
-    position: fixed;
-    width: 100%;
-    flex-direction: row;
-}
-.footer-fix a {
-    width: 33.33%;
-    border-right: 1px solid #ffffff;
-}
-.footer-fix hr {display: none;}
-.footer-fix a:not(.btn):hover {
-    border-color: #ffffff;
-
-}
+    
   }
 /*成功案例*/
 .successcase-article {
