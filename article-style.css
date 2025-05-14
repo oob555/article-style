@@ -6,10 +6,19 @@
   height: 43vw !important;
 }
 @media (max-width:650px) {
-section.home-contact .contact-outline-text {
-    display: none;
-}
-}
+  section.home-contact .contact-outline-text {
+      display: none;
+  }
+  #home-slider .owl-item {
+    height: 52vw !important;
+  }
+  .home-slider-s {
+    height: 52vw !important;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  }
 /*成功案例*/
 .successcase-article {
     font-size: 17px;
