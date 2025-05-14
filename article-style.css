@@ -1,9 +1,9 @@
 /*index*/
 #home-slider .owl-item {
-    height: 45vw !important;
+  height: 40.5vw !important;
 }
 .home-slider-s {
-    height: 45vw !important;
+  height: 40.5vw !important;
 }
 @media (max-width:650px) {
 section.home-contact .contact-outline-text {
