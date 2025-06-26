@@ -75,10 +75,10 @@
   .successcase-article .ti-block ul li {
     position: relative;
     list-style-type: none;
-    margin-bottom: 5px;
+    margin-bottom: 5px !important;
     padding-left: 26px;
     font-family: 'Noto Serif TC';
-    color: #000000;
+    color: #000000 !important;
   
 }
   .successcase-article .ti-block ul li span {
