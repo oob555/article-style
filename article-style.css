@@ -75,9 +75,9 @@
   .successcase-article .ti-block ul li {
     position: relative;
     list-style-type: none;
-    color: #2c59a4;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     padding-left: 26px;
+    font-family: 'Noto Serif TC';
   
 }
   .successcase-article .ti-block ul li span {
